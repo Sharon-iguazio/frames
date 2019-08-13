@@ -38,6 +38,8 @@ Then, you need to create an instance of the client object (see [Client Construct
 
 > **Note:** The API reference in this document currently uses the syntax of the Python Frames API.
 > However, there's also a similar API for Golang (Go).
+<!-- SLSL TODO NOWNOWNOW: Edit + edit the rest of the doc to only use Python.
+  Tal said that the high-level user API isn't supported in Go. -->
 
 <a id="client-constructor"></a>
 ### Client Object Constructor
